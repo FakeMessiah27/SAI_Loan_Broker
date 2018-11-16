@@ -7,7 +7,7 @@ package loanBrokerApplication.model;
  */
 public class BankInterestRequest {
 
-    private int amount; // the ammount to borrow
+    private int amount; // the amount to borrow
     private int time; // the time-span of the loan in years
 
     public BankInterestRequest() {

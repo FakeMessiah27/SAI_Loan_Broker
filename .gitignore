@@ -85,3 +85,9 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+.idea/vcs.xml
+bank/.gradle/
+bank/src/test/
+loan-broker-application/src/test/
+loan-client/.gradle/
+loan-client/src/test/

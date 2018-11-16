@@ -41,7 +41,7 @@ class ListViewLine {
      */
 	@Override
 	public String toString() {
-	   return loanRequest.toString() + "  --->  " + ((loanReply !=null)? loanReply.toString():"waiting for loan reply...");
+	   return loanRequest.toString() + " || " + ((loanReply !=null)? loanReply.toString():"waiting for loan reply...");
 	}
 	
 }
