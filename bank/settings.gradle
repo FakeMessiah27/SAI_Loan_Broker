@@ -1,0 +1,3 @@
+rootProject.name = 'bank'
+includeFlat 'loan-broker-application'
+

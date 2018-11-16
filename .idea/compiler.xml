@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="bank_main" target="1.10" />
+      <module name="bank_test" target="1.10" />
+      <module name="loan-broker-application_main" target="1.10" />
+      <module name="loan-broker-application_test" target="1.10" />
+      <module name="loan-client_main" target="1.10" />
+      <module name="loan-client_test" target="1.10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

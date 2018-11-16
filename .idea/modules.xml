@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank.iml" filepath="$PROJECT_DIR$/.idea/modules/bank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bank_main.iml" group="bank" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bank_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bank_test.iml" group="bank" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-broker-application.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-broker-application.iml" group="loan-broker-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1524542514/loan-broker-application_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1524542514/loan-broker-application_main.iml" group="loan-broker-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1524542514/loan-broker-application_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1524542514/loan-broker-application_test.iml" group="loan-broker-application" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-client.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-client_main.iml" group="loan-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/loan-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/loan-client_test.iml" group="loan-client" />
+    </modules>
+  </component>
+</project>
